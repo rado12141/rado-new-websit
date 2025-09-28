@@ -1,0 +1,24 @@
+About Me
+Welcome to my website! My name is Rado and I am a 17-year-old beginner programmer, avid gamer, and a tech enthusiast. I have a passion for learning new things and exploring the latest technologies.
+As a beginner in programming, I am constantly pushing myself to expand my knowledge and skills. I love to experiment with different programming languages and explore their potential. I'm always on the lookout for new challenges and opportunities to hone my programming skills.
+When I'm not programming, you can usually find me immersed in my favorite video games. Gaming has been a passion of mine for as long as I can remember, and it has helped me develop problem-solving skills, strategic thinking, and teamwork.
+In addition to my passion for programming and gaming, I am also good at fixing common problems in Windows. I enjoy troubleshooting and finding solutions to technical issues, and I'm always willing to lend a helping hand to those who need it.
+I am also a Christian, and I believe that my faith is an important part of my life. Christianity teaches me to love and respect others, and to be a kind and compassionate person. It also gives me hope and strength in difficult times.
+I enjoy taking photos and videos, especially nature photos and photos and videos from the sky. I like high quality images and videos, and I am always looking for new ways to improve my photography and videography skills.
+I have a lot of friends, and I am grateful for the support and friendship they provide.
+I also like hearing Christian praise songs, such as this music (https://youtu.be/4g_CHodO-Gw?si=6qyQawUgjTfPlNkA)
+I also like to listen to English songs, and I collect good Engglish songs as well. My best songs playlist (if you want to check it out): click here
+Thank you for visiting my website, and I hope you enjoy learning more about me and my passions!
+
+So, I want you to make an About Me website.
+The website must be colorful, have attractive fonts, eye-catching colors, and LOTS of animations. It should also be interactive.
+
+For the praise song that I like, please create an embedded video player with its own controls (not from YouTube).
+
+My profile photo for the About Me section is:
+https://bram.pages.dev/assets/images/image06.jpg
+
+The main point is: the website must look good-looking, impressive, and engaging, so people will respect and enjoy viewing it. It should have plenty of elements, animations, and interactivity.
+
+Also, make sure the main file is named main.html so I can host it on Cloudflare.
+So please use HTML, CSS, and JS.
